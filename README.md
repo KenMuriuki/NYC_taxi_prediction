@@ -1,5 +1,5 @@
 # NYC_taxi_prediction
-This project is aimed at creating a 3 day prediction for pick-up rides in station 4, Manhattan, New York.
+This project is aimed at creating a 3 day prediction for Yellow Taxis pick-up rides in station 4, Manhattan, New York.
 
 The project utilized time series data from the NYC Taxi & Limousine commission website. 
 
